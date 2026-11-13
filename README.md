@@ -2,6 +2,8 @@
 
 本项目在 Mac 本机运行，使用 OCI CLI 只读查询已配置的实例；当前支持多台 OCI 实例。其他云厂商和家庭 PVE 接入尚未实现。Mac 休眠、关机或者程序退出时采集会停止；Oracle Monitoring 继续在云端保留其指标。未接入真实账号前不会显示模拟数据。
 
+'https://github.com/jsongmax/oci-core'
+
 ## 启动
 
 ```sh
